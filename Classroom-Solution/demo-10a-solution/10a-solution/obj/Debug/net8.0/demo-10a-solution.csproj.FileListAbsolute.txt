@@ -1,0 +1,14 @@
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\bin\Debug\net8.0\demo-10a-solution.exe
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\bin\Debug\net8.0\demo-10a-solution.deps.json
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\bin\Debug\net8.0\demo-10a-solution.runtimeconfig.json
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\bin\Debug\net8.0\demo-10a-solution.dll
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\bin\Debug\net8.0\demo-10a-solution.pdb
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\obj\Debug\net8.0\demo-10a-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\obj\Debug\net8.0\demo-10a-solution.AssemblyInfoInputs.cache
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\obj\Debug\net8.0\demo-10a-solution.AssemblyInfo.cs
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\obj\Debug\net8.0\demo-10a-solution.csproj.CoreCompileInputs.cache
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\obj\Debug\net8.0\demo-10a-solution.dll
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\obj\Debug\net8.0\refint\demo-10a-solution.dll
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\obj\Debug\net8.0\demo-10a-solution.pdb
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\obj\Debug\net8.0\demo-10a-solution.genruntimeconfig.cache
+C:\git\cse212-course\Classroom-Solution\demo-10a-solution\10a-solution\obj\Debug\net8.0\ref\demo-10a-solution.dll

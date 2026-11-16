@@ -1,0 +1,15 @@
+C:\git\cse212-course\Classroom\Classroom\demo-06c\bin\Debug\net10.0\basketball.csv
+C:\git\cse212-course\Classroom\Classroom\demo-06c\bin\Debug\net10.0\demo-06c.exe
+C:\git\cse212-course\Classroom\Classroom\demo-06c\bin\Debug\net10.0\demo-06c.deps.json
+C:\git\cse212-course\Classroom\Classroom\demo-06c\bin\Debug\net10.0\demo-06c.runtimeconfig.json
+C:\git\cse212-course\Classroom\Classroom\demo-06c\bin\Debug\net10.0\demo-06c.dll
+C:\git\cse212-course\Classroom\Classroom\demo-06c\bin\Debug\net10.0\demo-06c.pdb
+C:\git\cse212-course\Classroom\Classroom\demo-06c\obj\Debug\net10.0\demo-06c.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\cse212-course\Classroom\Classroom\demo-06c\obj\Debug\net10.0\demo-06c.AssemblyInfoInputs.cache
+C:\git\cse212-course\Classroom\Classroom\demo-06c\obj\Debug\net10.0\demo-06c.AssemblyInfo.cs
+C:\git\cse212-course\Classroom\Classroom\demo-06c\obj\Debug\net10.0\demo-06c.csproj.CoreCompileInputs.cache
+C:\git\cse212-course\Classroom\Classroom\demo-06c\obj\Debug\net10.0\demo-06c.dll
+C:\git\cse212-course\Classroom\Classroom\demo-06c\obj\Debug\net10.0\refint\demo-06c.dll
+C:\git\cse212-course\Classroom\Classroom\demo-06c\obj\Debug\net10.0\demo-06c.pdb
+C:\git\cse212-course\Classroom\Classroom\demo-06c\obj\Debug\net10.0\demo-06c.genruntimeconfig.cache
+C:\git\cse212-course\Classroom\Classroom\demo-06c\obj\Debug\net10.0\ref\demo-06c.dll

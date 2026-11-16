@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="demo-01a-solution/demo-01a-solution.csproj" />
+  <Project Path="demo-01b-solution/demo-01b-solution.csproj" />
+  <Project Path="demo-03a-solution/demo-03a-solution.csproj" />
+  <Project Path="demo-04a-solution/demo-04a-solution.csproj" />
+  <Project Path="demo-04b-solution-tests/demo-04b-solution-tests.csproj" />
+  <Project Path="demo-04b-solution/demo-04b-solution.csproj" />
+  <Project Path="demo-04c-solution-tests/demo-04c-solution-tests.csproj" />
+  <Project Path="demo-04c-solution/demo-04c-solution.csproj" />
+  <Project Path="demo-05a-solution/demo-05a-solution.csproj" />
+  <Project Path="demo-05c-solution/demo-05c-solution.csproj" />
+  <Project Path="demo-06a-solution/demo-06a-solution.csproj" />
+  <Project Path="demo-06b-solution/demo-06b-solution.csproj" />
+  <Project Path="demo-06c-solution/demo-06c-solution.csproj" />
+  <Project Path="demo-07a-solution-tests/demo-07a-solution-tests.csproj" />
+  <Project Path="demo-07a-solution/demo-07a-solution.csproj" />
+  <Project Path="demo-08a-solution/demo-08a-solution.csproj" />
+  <Project Path="demo-08b-solution/demo-08b-solution.csproj" />
+  <Project Path="demo-08c-solution/demo-08c-solution.csproj" />
+  <Project Path="demo-09a-solution/demo-09a-solution.csproj" />
+  <Project Path="demo-10a-solution/10a-solution/demo-10a-solution.csproj" />
+</Solution>

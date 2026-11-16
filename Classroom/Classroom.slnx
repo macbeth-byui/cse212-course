@@ -1,0 +1,23 @@
+<Solution>
+  <Project Path="demo-01a/demo-01a.csproj" />
+  <Project Path="demo-01b/demo-01b.csproj" />
+  <Project Path="demo-02a/demo-02a.csproj" />
+  <Project Path="demo-02b/demo-02b.csproj" />
+  <Project Path="demo-03a/demo-03a.csproj" />
+  <Project Path="demo-03b/demo-03b.csproj" />
+  <Project Path="demo-04a/demo-04a.csproj" />
+  <Project Path="demo-04b/demo-04b.csproj" />
+  <Project Path="demo-04c/demo-04c.csproj" />
+  <Project Path="demo-05a/demo-05a.csproj" />
+  <Project Path="demo-05b/demo-05b.csproj" />
+  <Project Path="demo-05c/demo-05c.csproj" />
+  <Project Path="demo-06a/demo-06a.csproj" />
+  <Project Path="demo-06b/demo-06b.csproj" />
+  <Project Path="demo-06c/demo-06c.csproj" />
+  <Project Path="demo-07a/demo-07a.csproj" />
+  <Project Path="demo-08a/demo-08a.csproj" />
+  <Project Path="demo-08b/demo-08b.csproj" />
+  <Project Path="demo-08c/demo-08c.csproj" />
+  <Project Path="demo-09a/demo-09a.csproj" />
+  <Project Path="demo-10a/demo-10a.csproj" />
+</Solution>

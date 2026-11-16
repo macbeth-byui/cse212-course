@@ -1,0 +1,14 @@
+C:\git\cse212-course\Classroom\Classroom\demo-01a\bin\Debug\net10.0\demo-01a.exe
+C:\git\cse212-course\Classroom\Classroom\demo-01a\bin\Debug\net10.0\demo-01a.deps.json
+C:\git\cse212-course\Classroom\Classroom\demo-01a\bin\Debug\net10.0\demo-01a.runtimeconfig.json
+C:\git\cse212-course\Classroom\Classroom\demo-01a\bin\Debug\net10.0\demo-01a.dll
+C:\git\cse212-course\Classroom\Classroom\demo-01a\bin\Debug\net10.0\demo-01a.pdb
+C:\git\cse212-course\Classroom\Classroom\demo-01a\obj\Debug\net10.0\demo-01a.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\cse212-course\Classroom\Classroom\demo-01a\obj\Debug\net10.0\demo-01a.AssemblyInfoInputs.cache
+C:\git\cse212-course\Classroom\Classroom\demo-01a\obj\Debug\net10.0\demo-01a.AssemblyInfo.cs
+C:\git\cse212-course\Classroom\Classroom\demo-01a\obj\Debug\net10.0\demo-01a.csproj.CoreCompileInputs.cache
+C:\git\cse212-course\Classroom\Classroom\demo-01a\obj\Debug\net10.0\demo-01a.dll
+C:\git\cse212-course\Classroom\Classroom\demo-01a\obj\Debug\net10.0\refint\demo-01a.dll
+C:\git\cse212-course\Classroom\Classroom\demo-01a\obj\Debug\net10.0\demo-01a.pdb
+C:\git\cse212-course\Classroom\Classroom\demo-01a\obj\Debug\net10.0\demo-01a.genruntimeconfig.cache
+C:\git\cse212-course\Classroom\Classroom\demo-01a\obj\Debug\net10.0\ref\demo-01a.dll

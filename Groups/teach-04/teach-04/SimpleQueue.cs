@@ -1,0 +1,37 @@
+﻿namespace teach_04;
+
+/*
+ * CSE212 
+ * (c) BYU-Idaho
+ * 04-Teach - Problem 1
+ * 
+ * It is a violation of BYU-Idaho Honor Code to post or share this code with others or 
+ * to post it online.  Storage into a personal and private repository (e.g. private
+ * GitHub repository, unshared Google Drive folder) is acceptable.
+ *
+ */
+public class SimpleQueue {
+    private readonly List<int> _queue = new();
+
+    /// <summary>
+    /// Enqueue the value provided into the queue
+    /// </summary>
+    /// <param name="value">Integer value to add to the queue</param>
+    public void Enqueue(int value) {
+        _queue.Insert(0, value);
+    }
+
+    /// <summary>
+    /// Dequeue the next value and return it
+    /// </summary>
+    /// <exception cref="IndexOutOfRangeException">If queue is empty</exception>
+    /// <returns>First integer in the queue</returns>
+    public int Dequeue() {
+        if (_queue.Count <= 0)
+            throw new IndexOutOfRangeException();
+
+        var value = _queue[1];
+        _queue.RemoveAt(1);
+        return value;
+    }
+}

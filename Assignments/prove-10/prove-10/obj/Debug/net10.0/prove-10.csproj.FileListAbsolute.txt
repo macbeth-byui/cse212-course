@@ -1,0 +1,11 @@
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\bin\Debug\net10.0\prove-10.deps.json
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\bin\Debug\net10.0\prove-10.dll
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\bin\Debug\net10.0\prove-10.pdb
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\obj\Debug\net10.0\prove-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\obj\Debug\net10.0\prove-10.AssemblyInfoInputs.cache
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\obj\Debug\net10.0\prove-10.AssemblyInfo.cs
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\obj\Debug\net10.0\prove-10.csproj.CoreCompileInputs.cache
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\obj\Debug\net10.0\prove-10.dll
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\obj\Debug\net10.0\refint\prove-10.dll
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\obj\Debug\net10.0\prove-10.pdb
+C:\git\cse212-faculty\Assignments-Solutions\prove-10\prove-10\obj\Debug\net10.0\ref\prove-10.dll
