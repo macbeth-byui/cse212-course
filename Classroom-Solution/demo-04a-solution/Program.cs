@@ -35,5 +35,7 @@ while (selection != "3") {
         }
     }
 
-    Console.WriteLine("Goodbye!");
+    
 }
+
+Console.WriteLine("Goodbye!");

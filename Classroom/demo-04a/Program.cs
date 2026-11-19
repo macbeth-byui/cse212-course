@@ -27,5 +27,7 @@ while (selection != "3") {
         // TODO
     }
 
-    Console.WriteLine("Goodbye!");
+
 }
+
+Console.WriteLine("Goodbye!");

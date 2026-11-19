@@ -18,5 +18,5 @@
   <Project Path="demo-08b-solution/demo-08b-solution.csproj" />
   <Project Path="demo-08c-solution/demo-08c-solution.csproj" />
   <Project Path="demo-09a-solution/demo-09a-solution.csproj" />
-  <Project Path="demo-10a-solution/10a-solution/demo-10a-solution.csproj" />
+  <Project Path="demo-10a-solution/demo-10a-solution.csproj" />
 </Solution>
